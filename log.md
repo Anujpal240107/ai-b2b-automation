@@ -1,1 +1,6 @@
 "# Daily Log" 
+"" 
+"## Day 1 - Hour 1" 
+" - Set up Git, GitHub, and Mission repository." 
+" - Learned basic Git command (init, add, commit, remote, push)." 
+"- Create log.md" 
